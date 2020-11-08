@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://mega.nz/file/IZ0lhCTY#4_07x44j_Hdf68jWF1Pmjavw8GYkHewIj-4kmsRDPDs'
+export_file_url = 'https://www.dropbox.com/s/6h9oqdiapcihqk7/export.pkl?dl=0'
 export_file_name = 'export.pkl'
 
 classes = ['romana', ' viennese', 'capricciosa', 'quattro formaggi', 'bianca', 'margherita', 'marinara']
